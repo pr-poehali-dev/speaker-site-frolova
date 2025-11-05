@@ -56,7 +56,7 @@ const Index = () => {
                 <img 
                   src="https://cdn.poehali.dev/files/ae2e5bcc-733f-4b8b-b19c-f022d9907644.jpg" 
                   alt="Жанна Фролова"
-                  className="w-full h-full object-cover"
+                  className="w-full h-full object-cover object-top"
                 />
               </div>
             </div>
