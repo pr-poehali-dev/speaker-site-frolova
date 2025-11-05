@@ -116,7 +116,7 @@ const Index = () => {
               <div className="bg-accent/10 p-4 rounded-xl w-fit mb-6">
                 <Icon name="PenTool" size={40} className="text-accent" />
               </div>
-              <h3 className="text-2xl font-bold text-white mb-3">30 книг</h3>
+              <h3 className="text-2xl font-bold text-white mb-3">Автор 30 книг</h3>
               <p className="text-gray-400">Тираж 5 000 000 экз. (под псевдонимом Евгения Шацкая)</p>
             </Card>
 
@@ -217,12 +217,12 @@ const Index = () => {
           </div>
 
           <div className="bg-accent text-black rounded-2xl p-12 text-center">
-            <h3 className="text-3xl font-bold mb-6">Работала с ведущими компаниями</h3>
+            <h3 className="text-3xl font-bold mb-6">Работала с ведущими компаниями и авторами</h3>
             <div className="space-y-4 text-lg">
               <p className="font-semibold">Издательства: АСТ, Эксмо, Рипол, Феникс</p>
-              <p className="font-semibold">Компании: EKF, Legrand, National Geographic</p>
-              <p className="font-semibold">Авторы: А. Парабеллум, А. Левитас, Р. Гандапас, В. Якуба и другие</p>
-              <p className="mt-6">30+ онлайн марафонов · 300+ человек на выступлениях</p>
+              <p className="font-semibold">Компании: EKF, Legrand, National Geographic, Посольство Удмуртии в Москве, Ассоциация бизнес-тренеров России</p>
+              <p className="font-semibold">Авторы бестселлеров: А. Парабеллум, А. Левитас, В. Якуба, И. Валинуров, Р. Гандапас, М. Поташов, Ч. Дзотти, Д. Атерлей, М. Гузманов</p>
+              <p className="mt-6">30+ онлайн марафонов · Выступала со сцены на аудиторию более 300 человек</p>
             </div>
           </div>
         </div>
