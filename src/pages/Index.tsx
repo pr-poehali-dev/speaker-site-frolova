@@ -54,7 +54,7 @@ const Index = () => {
             <div className="relative">
               <div className="aspect-square rounded-lg overflow-hidden bg-secondary">
                 <img 
-                  src="https://cdn.poehali.dev/projects/683efc52-91b9-4afb-842b-99937268a3c6/files/65dddff8-1f6b-4bde-81e3-8326986b0a3d.jpg" 
+                  src="https://cdn.poehali.dev/files/ae2e5bcc-733f-4b8b-b19c-f022d9907644.jpg" 
                   alt="Жанна Фролова"
                   className="w-full h-full object-cover"
                 />
