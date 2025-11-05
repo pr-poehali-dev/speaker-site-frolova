@@ -111,7 +111,7 @@ const Index = () => {
                 </div>
                 <div>
                   <h3 className="text-xl font-semibold mb-2">Автор 30 книг</h3>
-                  <p className="text-muted-foreground">Суммарный тираж 5 000 000 экземпляров (под псевдонимом)</p>
+                  <p className="text-muted-foreground">Суммарный тираж 5 000 000 экземпляров (под псевдонимом Евгения Шацкая)</p>
                 </div>
               </div>
             </Card>
